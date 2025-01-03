@@ -137,12 +137,14 @@ body {
 
 /* About and Skill Sections */
 .about,
-.skill {
+.skill,
+.contact {
     padding: 10rem 7% 1.4rem;
 }
 
 .about h2,
-.skill h2 {
+.skill h2,
+.contact h2 {
     text-align: center;
     font-size: 2.6rem;
     margin-bottom: 3rem;
@@ -150,7 +152,8 @@ body {
 }
 
 .about h2 span,
-.skill h2 span {
+.skill h2 span,
+.contact h2 span {
     color: var(--primary);
 }
 
